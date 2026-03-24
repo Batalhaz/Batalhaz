@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Erick Batalha, tenho 21 anos e sou natural de Arapiraca, Alagoas. Atualmente, curso Sistemas de Informação na Universidade Federal de Alagoas (UFAL). Minha jornada na tecnologia começou com os fundamentos do desenvolvimento web e, desde então, venho me aprofundando em linguagens como TypeScript, JavaScript, HTML e CSS, além de trabalhar com bibliotecas modernas como o React. Sou apaixonado por transformar ideias em interfaces funcionais e intuitivas. Busco constantemente evoluir como desenvolvedor front-end, combinando teoria e prática em projetos que refletem meu comprometimento com a qualidade e a inovação.
-
 <!--
 <p align="left">
     <a href="https://github.com/Batalhaz?tab=followers">
