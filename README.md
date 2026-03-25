@@ -69,7 +69,7 @@
     title="Flutter" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:Flutter_logo.svg#/media/File:Flutter_logo.svg"
+    src="https://commons.wikimedia.org/wiki/File:Flutter_logo.svg#/media/File:Flutter_logo.svg](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
 />
 <img 
     align="left" 
@@ -77,7 +77,7 @@
     title="Dart"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:Dart-logo-icon.svg#/media/File:Dart-logo-icon.svg" 
+    src="https://commons.wikimedia.org/wiki/File:Dart-logo-icon.svg#/media/File:Dart-logo-icon.svg](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
 />
 <!--  
 <img 
