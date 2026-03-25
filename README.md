@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Erick Batalha
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor de Software`**
 
 <!--
 <p align="left">
