@@ -63,15 +63,23 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<!--  
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
+<img
+    align="left"
+    alt="Flutter"
+    title="Flutter" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://commons.wikimedia.org/wiki/File:Flutter_logo.svg#/media/File:Flutter_logo.svg"
 />
+<img 
+    align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://commons.wikimedia.org/wiki/File:Dart-logo-icon.svg#/media/File:Dart-logo-icon.svg" 
+/>
+<!--  
 <img 
     align="left" 
     alt="Bootstrap"
